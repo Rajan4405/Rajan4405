@@ -1,7 +1,7 @@
-[![MasterHead](https://dribbble.com/shots/4871258/attachments/4871258-Web-development?mode=media)
+
 <h1 align="center">Hi 👋, I'm Rajan Sharma</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan4405&label=Profile%20views&color=0e75b6&style=flat" alt="rajan4405" /> </p>
 
