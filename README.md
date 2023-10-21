@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rajans_" target="blank"><img src="https://img.shields.io/twitter/follow/rajans_?logo=twitter&style=for-the-badge" alt="rajans_" /></a> </p>
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rajanshatma652@gmail.com**
+- 📫 How to reach me **rajansharma4405@gmail.com**
 
 - ⚡ Fun fact **I also love dancing and have been doing it since I was young. It is something that allows me to be creative.**
 
